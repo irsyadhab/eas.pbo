@@ -207,3 +207,6 @@ Kelas  : PBO A
   
 - __Buat PPT presentasi yang menunjang Demo Aplikasi__
 - __Demokan aplikasi dengan membuat video dan diupload di Youtube.__
+
+  Link Channel Youtube:
+  https://www.youtube.com/@irsyadhabibi2554
