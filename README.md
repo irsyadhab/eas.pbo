@@ -22,7 +22,8 @@ Kelas  : PBO A
     
 - __Buatlah Rancangan Aplikasi yang diambil dalam Final Project__
   
-  Project yang diambil adalah Hotel Reservation System, yang terdiri dari 3 file Java, yaitu Main.java, Reservation.java, ReservationController.java. Terdapat pula file ReservationView.fxml untuk desain UI. Pada Main.java, terdapat `FXMLLoader` yang akan mengarah ke ReservationView.fxml sebagai desain UI. Lalu, pada ReservationView.fxml, terdapat `fx:controller` yang mengarah ke ReservationController.java.
+  Project yang diambil adalah Hotel Reservation System, yang terdiri dari 3 file Java, yaitu Main.java, Reservation.java, ReservationController.java. Terdapat pula file ReservationView.fxml untuk desain UI.
+  Pada Main.java, terdapat `FXMLLoader` yang akan mengarah ke ReservationView.fxml sebagai desain UI. Lalu, pada ReservationView.fxml, terdapat `fx:controller` yang mengarah ke ReservationController.java.
   Pada sistem reservasi hotel ini, terdapat 4 variabel pada setiap transaksi, yaitu nama customer, jenis kamar, tanggal check-in, dan tanggal check-out.
   Berikut merupakan desain UI berdasarkan file fxml yang telah dibuat.
 
