@@ -1,10 +1,13 @@
 # EAS PBO
 
 Nama  : Muhammad Irsyad Habibi
+
 NRP  : 5025221150
+
 Kelas  : PBO A
 
 - __Apa yang dimaksud dengan Package Library dalam Java? Jelaskan kegunaan dan contoh penggunaannya dalam pemrograman.__
+  
   Java Package Library merupakan sekumpulan Java class yang terkumpul dalam satu direktori. Java package sendiri terbagi menjadi 2, yaitu Built-in Package dan User-defined package.
   - Built-in Package
     Package ini merupakan package bawaan yang sudah tersedia setelah menginstall Java dan dapat langsung diambil dari library. Misal, kita dapat mengimport `Scanner` class dari Package `java.util` supaya dapat melakukan operasi input.
@@ -18,6 +21,7 @@ Kelas  : PBO A
     ```
     
 - __Buatlah Rancangan Aplikasi yang diambil dalam Final Project__
+  
   Project yang diambil adalah Hotel Reservation System, yang terdiri dari 3 file Java, yaitu Main.java, Reservation.java, ReservationController.java. Terdapat pula file ReservationView.fxml untuk desain UI. Pada Main.java, terdapat `FXMLLoader` yang akan mengarah ke ReservationView.fxml sebagai desain UI. Lalu, pada ReservationView.fxml, terdapat `fx:controller` yang mengarah ke ReservationController.java.
   Pada sistem reservasi hotel ini, terdapat 4 variabel pada setiap transaksi, yaitu nama customer, jenis kamar, tanggal check-in, dan tanggal check-out.
   Berikut merupakan desain UI berdasarkan file fxml yang telah dibuat.
@@ -25,8 +29,10 @@ Kelas  : PBO A
   ![Screenshot (119)](https://github.com/user-attachments/assets/5dda73c2-aa56-45e8-ad0c-e12e4f2f3112)
 
 - __Deskripsikan kegunaan dan ruang lingkup aplikasi__
+  
   Kegunaan dari Hotel Reservation System ini adalah untuk mengorganisasikan pemesanan tiket hotel.
 - __Implementasikan Aplikasi yang telah didesain dengan menggunakan Pemrograman Berbasis Obyek Java__
+  
   Main.java
   ```
   package project;
